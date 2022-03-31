@@ -116,7 +116,7 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 
 # BUTTON VERSION [NEW]
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Hashzi-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/timashabudd/Dark-Queen)
 
 # OLD VERSION [OLD]
 
