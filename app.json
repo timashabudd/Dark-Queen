@@ -1,6 +1,6 @@
 {
-    "name": "Amazone Alexa V8",
-    "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
+    "name": "Dark Queen V8",
+    "description": "Dark Queen is a chat bot for WhatsApp. Makes it easy and Working perfectly",
     "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
     "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
@@ -8,7 +8,7 @@
     "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
     "stack": "container",
     "env": {
-        "NEUTRO_SESSION": {
+        "DARK QUEEN_SESSION": {
             "description": "Paste your QR session.",
             "required": true
         },
@@ -29,12 +29,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "*◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*\n*⦁◊═⦁QUEEN 👸 ALEXA⦁═◊⦁*"
-        },
-        "FULL_ALEXA": {
-            "description": "Activate alexa chat bot",
-            "required": false,
-            "value": "false"
+            "value": "*⦁◊═⦁DARK 💃🏼❤ QUEEN⦁═◊⦁*"
         },
         "SONGD": {
             "description": "Customizable Song Download message",
@@ -87,7 +82,7 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By 👩‍🦰Amazone Alexa"
+            "value": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋ ǫᴜᴇᴇɴ"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
@@ -167,7 +162,7 @@
         "PANEL_COMMAND": {
             "description": "Customizeable commands list request command. Keep alexa if you don't want to change.",
             "required": true,
-            "value": "alexa"
+            "value": "tima"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
@@ -176,7 +171,7 @@
         "ALIVE_MESSAGE": {
             "description": "The message you get when you check whether the bot is online or not. This is not necessarily the case.",
             "required": false,
-            "value": "*Hey, I AM ALIVE NOW*\n*◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*\n*⦁◊═⦁QUEEN 👸 ALEXA⦁═◊⦁*"
+            "value": "*Hey, I AM ALIVE NOW*\n*◄━━⦁⦁◯⦁⦁━━►*\n*⦁◊═⦁DARK 💃🏼❤ QUEEN⦁═◊⦁* ```Developer M.R TIMA```"
         },
         "BAN_MESSAGE": {
             "description": "The message you get when someone commands you as .ban and removes it. If you do not want to change this message, type default.",
@@ -236,7 +231,7 @@
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "*◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*\n*⦁◊═⦁QUEEN 👸 ALEXA⦁═◊⦁*"
+            "value": "*◄━⦁⦁◯⦁⦁━►*\n*⦁◊═⦁DARK 💃🏼❤ QUEEN⦁═◊⦁*"
         }
     },
     "addons": [{
