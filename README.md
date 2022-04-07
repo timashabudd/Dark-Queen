@@ -7,13 +7,13 @@
 
 </a>
 
-![logo](1.jpg)
+![logo](1.jpg.jpg)
 <h1 align="center"><b> 🧚DARK QUEEN (ᴠɪᴘ) </b></h1>
 
 </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Dark+Queen+Github&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Dark+Queen&font=Fira%20Code&center=true&width=380&height=50">
 
 
 
