@@ -34,12 +34,12 @@
         "SONGD": {
             "description": "Customizable Song Download message",
             "required": false,
-            "value": "*◦•●◉Downloading Your Song◉●•◦*"
+            "value": "*◦•Downloading Your Song✨➾🔎*"
         },
         "SONGU": {
             "description": "Customizable Song upload message",
             "required": false,
-            "value": "*◦•●◉✿Uploading Your Song✿◉●•◦*"
+            "value": "*◦•Uploading Your Song✨➾🔎*"
         },
         "LANGUAGE": {
             "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
@@ -231,7 +231,7 @@
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "*◄━⦁⦁◯⦁⦁━►*\n*⦁◊═⦁DARK 💃🏼❤ QUEEN⦁═◊⦁*"
+            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃   *DARK QUEEN WHATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━"
         }
     },
     "addons": [{
