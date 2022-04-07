@@ -7,7 +7,7 @@
 
 </a>
 
-![logo](1.jpg.jpg)
+![logo](1.jpg(4))
 <h1 align="center"><b> 🧚DARK QUEEN (ᴠɪᴘ) </b></h1>
 
 </a>
