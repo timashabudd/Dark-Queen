@@ -7,25 +7,22 @@
 
 </a>
 
-![logo](https://telegra.ph/file/702bfc5e4176727a34559.jpg)
-<h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
+![logo](1.jpg)
+<h1 align="center"><b> 🧚DARK QUEEN (ᴠɪᴘ) </b></h1>
 
 </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Dark+Queen+Github&font=Fira%20Code&center=true&width=380&height=50">
 
-</a>
-<p align="center">
-    Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. AMAZONE-Alexa යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
-    <br>
+
 
 ## Thanks for Everything 
 ### We will always remember you..
 
 - [Chamod](https://github.com/ChamodKeshan)
 - [Teenux](https://github.com/xneon2)
-- [Chamodya](https://github.com/En-cuzier)
+- [M.R TIMA](https://github.com/timashabudd)
 
 <p align="center">
   <a href="https://github.com/ChamodKeshan/Hashzi-X/fork">
