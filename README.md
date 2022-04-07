@@ -7,7 +7,7 @@
 
 </a>
 
-![logo](1.jpg(4))
+![logo](file:///C:/Users/IPK%20computers/Pictures/Saved%20Pictures/1.jpg.jpg)
 <h1 align="center"><b> 🧚DARK QUEEN (ᴠɪᴘ) </b></h1>
 
 </a>
