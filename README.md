@@ -41,7 +41,7 @@
    </a>    
         
   <p align="center">
-<a href="https://chat.whatsapp.com/ESgq5ThSobg4ZGD4pLAGf4"><img title="Author" src="https://img.shields.io/badge/BOT-HELPING-GROUP-/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/ESgq5ThSobg4ZGD4pLAGf4"><img title="Author" src="https://img.shields.io/badge/BOT-HELPING-GROUP-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
 </p>
    </a>
 </p>
@@ -83,7 +83,7 @@
 
   </a>
   <a href="https://wa.me/94773585511">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-M.R TIMA20%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-M.R TIMA%20-purple&style=plastic">
 
   </a>
 </p>
